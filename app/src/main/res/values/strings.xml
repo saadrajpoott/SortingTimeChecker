@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SortingTimeChecker</string>
+    <string name="calculated_time">0</string>
+    <string name="s_for_seconds">s</string>
+    <string name="array_size_hint">Specify array size</string>
+    <string name="populate_btn_text">Populate</string>
+    <string name="sorted_array_heading">Sorted Array</string>
+    <string name="display_array_btn">Display Array</string>
+    <string name="calculate_btn">calculate</string>
+
+    <string-array name="algorithm_names">
+        <item name="select_sort">Select Algorithm</item>
+        <item name="bubble_sort">Bubble Sort</item>
+        <item name="selection_sort">Selection Sort</item>
+        <item name="insertion_sort">Insertion Sort</item>
+        <item name="merge_sort">Merge Sort</item>
+        <item name="quick_sort">Quick Sort</item>
+    </string-array>
+</resources>
