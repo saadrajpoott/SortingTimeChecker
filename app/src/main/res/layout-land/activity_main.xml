@@ -120,7 +120,7 @@
                 android:background="@color/colorAccent"
                 android:layout_gravity="center"
                 android:layout_marginTop="10dp"
-                android:onClick="refreshData"
+                android:onClick="resetData"
                 />
         </LinearLayout>
 

@@ -85,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void refreshData(View view) {
+    public void resetData(View view) {
         numbersArray = null;
         execution_time.setText("0");
         spinner.setSelection(0);
