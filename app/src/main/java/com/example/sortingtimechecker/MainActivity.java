@@ -88,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
     public void resetData(View view) {
         numbersArray = null;
         execution_time.setText("0");
+        array_size_edittext.setText("");
         spinner.setSelection(0);
         Toast.makeText(MainActivity.this, "Refreshed!", Toast.LENGTH_SHORT).show();
     }

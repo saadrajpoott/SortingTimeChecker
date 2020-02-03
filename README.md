@@ -4,6 +4,12 @@ SortingTimeChecker is a simple app that tells you the time in seconds that a Sor
 It populates an array inside with random numbers. You specify the array size and populate the internal array. It contains a drop down that lets
 you pick a sorting algorithm that you want to use. It also contains a reset button that resets everything to their initial state.
 
+.
+.
+CHECK OUT SCREENSHOTS FOLDER TO HAVE BETTER UNDERSTANDING.
+.
+.
+
 HOW YOU WILL USE IT?
 
 -> First you will specify the array size in the text field.
