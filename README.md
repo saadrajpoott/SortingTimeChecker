@@ -13,6 +13,10 @@ HOW YOU WILL USE IT?
 -> Press DISPLAY ARRAY to display the sorted array. You could also display unsorted array if you wished to.
 -> To reset everything to their initial states you can use the RESET button given below.
 .
+.
 CHECK OUT THESE SCREENSHOTS FOR BETTER UNDERSTANDING
 .
 ![](Screenshots/First.jpg)
+![](Screenshots/Second.jpg)
+![](Screenshots/Third.jpg)
+![](Screenshots/horizontal.png)
